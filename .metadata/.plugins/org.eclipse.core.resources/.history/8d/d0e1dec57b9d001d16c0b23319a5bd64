@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author guilhermesantos
+ *
+ */
+module Predicate {
+}

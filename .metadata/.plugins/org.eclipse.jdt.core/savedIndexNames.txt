@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/home/guilhermesantos/Documentos/Sensedia/Estagio/cursos/JavaPOO-Udemy/ProgramaçãoFuncional-Lambda/.metadata/.plugins/org.eclipse.jdt.core
+3817080232.index
+1865797976.index
+3793652866.index
